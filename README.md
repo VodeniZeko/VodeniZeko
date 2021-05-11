@@ -60,8 +60,8 @@
 <br/>
 <br/>
 
-<!-- ## ❤ Views and Followers -->
-<a hidden="true" href="https://github.com/Meghna-DAS/github-profile-views-counter">
+## ❤ Views and Followers
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=VodeniZeko">
 </a>
-<a hidden="true" href="https://github.com/VodeniZeko?tab=followers"><img src="https://img.shields.io/github/followers/VodeniZeko?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/VodeniZeko?tab=followers"><img src="https://img.shields.io/github/followers/VodeniZeko?label=Followers&style=social" alt="GitHub Badge"></a>
