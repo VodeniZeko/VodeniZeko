@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Crypto Tracker](https://www.bitcoindiagrams.com/)**
+- 🔭 I’m currently working on **[Crypto Price Tracker](https://www.bitcoindiagrams.com/)**
 
 - 🌱 I’m currently learning **[new language.](https://github.com/rust-lang)**
 
