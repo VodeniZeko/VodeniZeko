@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **[Cryptocurrency Price Tracker](https://www.bitcoindiagrams.com/)**
 
-- 🌱 I’m currently learning **[new language.](https://github.com/rust-lang)**
+- 🌱 I’m currently learning **[new language.](https://github.com/golang)**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
