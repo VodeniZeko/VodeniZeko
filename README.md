@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://edvin.netlify.app/)**
 
-- 📫 How to reach me **saletovic.edvin@gmail.com**
+- 📫 How to reach me **saletovic.developer@gmail.com**
 
 
 ## 🚀 Languages and Tools:
