@@ -46,20 +46,27 @@
 <br/> -->
 
 <p align="center">
-    <a href="https://github.com/VodeniZeko/github-readme-streak-stats&show_icons=true&theme=transparent">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Edvin streak" src="https://github-readme-streak-stats.herokuapp.com/?user=VodeniZeko&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    <a href="https://github.com/VodeniZeko/github-readme-streak-stats&show_icons=true&theme=gotham">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Edvin streak" src="https://github-readme-streak-stats.herokuapp.com/?user=VodeniZeko&theme=gotham&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
 ## 📊 My Github Stats
 
   <br/>
-    <a width="100%" href="https://github.com/VodeniZeko/github-readme-stats"><img alt="Edvin Github Stats" src="https://github-readme-stats.vercel.app/api?username=VodeniZeko&show_icons=true&theme=transparent&hide_border=true" /><img alt="Edvin Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VodeniZeko&langs_count=8&count_private=true&layout=compact&hide_border=true&bg_color=0D1117&hide_progress=true" /></a>
-
+    <a width="100%" href="https://github.com/VodeniZeko/github-readme-stats"><img alt="Edvin Github Stats" src="https://github-readme-stats.vercel.app/api?username=VodeniZeko&show_icons=true&theme=gotham&hide_border=true" /><img alt="Edvin Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VodeniZeko&langs_count=8&count_private=true&layout=compact&hide_border=true&hide_progress=true&theme=gotham" /></a>
   <br/>
 
-<br/>
-<br/>
+## 📌 Repos
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VodeniZeko&repo=BlockbusterVideo&show_owner=true&theme=gotham)](https://github.com/VodeniZeko/BlockbusterVideo)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VodeniZeko&repo=PLayerOne&show_owner=true&theme=gotham)](https://github.com/VodeniZeko/PLayerOne)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VodeniZeko&repo=node-microservices-example&show_owner=true&theme=gotham)](https://github.com/VodeniZeko/node-microservices-example)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VodeniZeko&repo=Async-NodeJS&show_owner=true&theme=gotham)](https://github.com/VodeniZeko/Async-NodeJS)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LUCI-Task&repo=client&show_owner=true&theme=gotham)](https://github.com/LUCI-Task)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LUCI-Task&repo=server&show_owner=true&theme=gotham)](https://github.com/LUCI-Task)
+
 
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
