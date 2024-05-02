@@ -3,7 +3,8 @@
 
 ## 🙋‍♂️ About Me
 
-- Hey there! I'm Edvin, a Full-Stack Developer passionate about crafting elegant code solutions. I thrive on problem-solving and love to blend industry standards with innovative tech to build awesome things. Let's connect and code something amazing together! 🚀
+- Hey there! I'm Edvin, a Full-Stack Developer passionate about crafting elegant code solutions. I thrive on problem-solving and love to blend industry standards with innovative tech to build awesome things. 
+  [Let's connect](mailto:your.email@example.com) and code something amazing together!
 
 <!--
 - 🔭 I’m currently working on **[Cryptocurrency Price Tracker](https://www.bitcoindiagrams.com/)**
@@ -14,9 +15,6 @@
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://edvin.netlify.app/)**
 -->
-
-- 📫 How to reach me **saletovic.developer@gmail.com**
-
 
 ## 🚀 Languages and Tools:
 
