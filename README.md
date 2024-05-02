@@ -6,6 +6,9 @@
 
 ## 🙋‍♂️ About Me
 
+- Accomplished Full-Stack Developer known for exceeding client expectations through clean, optimized code. Skilled in problem-solving and adept at blending industry standards with innovative tech. Proven leader with strong collaboration abilities.
+
+<!--
 - 🔭 I’m currently working on **[Cryptocurrency Price Tracker](https://www.bitcoindiagrams.com/)**
 
 - 🌱 I’m currently learning **[new language.](https://github.com/golang)**
@@ -13,6 +16,7 @@
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://edvin.netlify.app/)**
+-->
 
 - 📫 How to reach me **saletovic.developer@gmail.com**
 
