@@ -57,7 +57,7 @@
     <a width="100%" href="https://github.com/VodeniZeko/github-readme-stats"><img alt="Edvin Github Stats" src="https://github-readme-stats.vercel.app/api?username=VodeniZeko&show_icons=true&theme=gotham&hide_border=true" /><img alt="Edvin Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VodeniZeko&langs_count=8&count_private=true&layout=compact&hide_border=true&hide_progress=true&theme=gotham" /></a>
   <br/>
 
-## 📌 Repos
+<!--## 📌 Repos
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VodeniZeko&repo=BlockbusterVideo&show_owner=true&theme=gotham)](https://github.com/VodeniZeko/BlockbusterVideo)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VodeniZeko&repo=PLayerOne&show_owner=true&theme=gotham)](https://github.com/VodeniZeko/PLayerOne)
@@ -66,7 +66,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LUCI-Task&repo=client&show_owner=true&theme=gotham)](https://github.com/LUCI-Task)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LUCI-Task&repo=server&show_owner=true&theme=gotham)](https://github.com/LUCI-Task)
-
+-->
 
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
