@@ -46,7 +46,7 @@
 <br/> -->
 
 <p align="center">
-    <a href="https://github.com/VodeniZeko/github-readme-streak-stats">
+    <a href="https://github.com/VodeniZeko/github-readme-streak-stats&show_icons=true&theme=transparent">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Edvin streak" src="https://github-readme-streak-stats.herokuapp.com/?user=VodeniZeko&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
@@ -54,7 +54,7 @@
 ## 📊 My Github Stats
 
   <br/>
-    <a width="100%" href="https://github.com/VodeniZeko/github-readme-stats"><img alt="Edvin Github Stats" src="https://github-readme-stats.vercel.app/api?username=VodeniZeko&show_icons=true&count_private=true&hide=stars,issues&theme=react&hide_border=true&bg_color=0D1117" /><img alt="Edvin Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VodeniZeko&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a width="100%" href="https://github.com/VodeniZeko/github-readme-stats"><img alt="Edvin Github Stats" src="https://github-readme-stats.vercel.app/api?username=VodeniZeko&show_icons=true&theme=transparent&hide_border=true" /><img alt="Edvin Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VodeniZeko&langs_count=8&count_private=true&layout=compact&hide_border=true&bg_color=0D1117&hide_progress=true" /></a>
 
   <br/>
 
