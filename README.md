@@ -1,12 +1,9 @@
 <a href="#"><img width="100%" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.pixabay.com%2Fphoto%2F2016%2F03%2F23%2F14%2F55%2Fmatrix-1274888_640.png&f=1&nofb=1" height="175px"/></a>
 
-<h1 align="center">Hello, I'm Edvin</h1>
-
-
 
 ## 🙋‍♂️ About Me
 
-- Accomplished Full-Stack Developer known for exceeding client expectations through clean, optimized code. Skilled in problem-solving and adept at blending industry standards with innovative tech. Proven leader with strong collaboration abilities.
+- Hey there! I'm Edvin, a Full-Stack Developer passionate about crafting elegant code solutions. I thrive on problem-solving and love to blend industry standards with innovative tech to build awesome things. Let's connect and code something amazing together! 🚀
 
 <!--
 - 🔭 I’m currently working on **[Cryptocurrency Price Tracker](https://www.bitcoindiagrams.com/)**
