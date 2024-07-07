@@ -4,7 +4,7 @@
 ## 🙋‍♂️ About Me
 
 - Hey there! I'm Edvin, a Full-Stack Developer passionate about crafting elegant code solutions. I thrive on problem-solving and love to blend industry standards with innovative tech to build awesome things. 
-  [Let's connect](mailto:your.email@example.com) and code something amazing together!
+  [Let's connect](mailto:saletovic.developer@gmail.com) and code something amazing together!
 
 <!--
 - 🔭 I’m currently working on **[Cryptocurrency Price Tracker](https://www.bitcoindiagrams.com/)**
